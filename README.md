@@ -1,4 +1,4 @@
-# SFU-SNAKE
+# Snakes Finds U-SNAKE
 
 1. Download Program
 2. Run the main class 
