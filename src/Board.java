@@ -1,5 +1,3 @@
-package com.zetcode;
-
 //Import Statements to draw the game
 import java.awt.Color;
 import java.awt.Dimension;
@@ -24,6 +22,7 @@ import javax.swing.Timer;
  This is the board class, it contains the grid that the snake game is played on
  The snake moves by the user pressing the arrow keys, and the snake grows if you eat any apples. There are also mines scattered across the board, if you come into contact with any of them, the game ends. The game also ends if the snake touches itself when moving
  */
+//Inspired by : https://github.com/janbodnar/Java-Snake-Game
 public class Board extends JPanel implements ActionListener {
 
     // List of private consants
